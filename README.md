@@ -4,9 +4,9 @@ A Flutter package allows you to easily implement the Credit card's UI easily wit
 
 ### ⚡&ensp;Social Media
 
-[<img align="center" alt="DevDiariesWithVee | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />](https://www.youtube.com/DevDiariesWithVee?sub_confirmation=1)&ensp;YouTube: [@DevDiariesWithVee](https://www.youtube.com/JohannesMilke?sub_confirmation=1 "YouTube DevDiariesWithVee")
+[<img align="center" alt="DevDiariesWithVee | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />](https://www.youtube.com/DevDiariesWithVee?sub_confirmation=1)&ensp;YouTube: [@DevDiariesWithVee](https://www.youtube.com/DevDiariesWithVee?sub_confirmation=1 "YouTube DevDiariesWithVee")
 
-[<img align="center" alt="DevDiariesWithVee | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />](https://instagram.com/devdiaries_with_vee)&ensp;Instagram: [@DevDiariesWithVee](https://instagram.com/JohannesMilke "Instagram DevDiariesWithVee")
+[<img align="center" alt="DevDiariesWithVee | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />](https://instagram.com/devdiaries_with_vee)&ensp;Instagram: [@DevDiariesWithVee](https://instagram.com/devdiaries_with_vee "Instagram DevDiariesWithVee")
 
 [<img align="center" alt="Vaidehi shah | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />](https://linkedin.com/in/JohannesMilke)&ensp;LinkedIn: [@Vaidehi Shah](https://linkedin.com/in/JohannesMilke "LinkedIn Vaidehi Shah")
 
