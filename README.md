@@ -17,12 +17,12 @@ A Flutter package allows you to easily implement the Credit card's UI easily wit
 
 ### 📺&ensp;Watch Video
 
-##### [YouTube video](https://www.youtube.com/@DevDiariesWithVee "Youtube DevDiariesWithVee") where the *source code* is explained. [Subscribe YouTube channel.](https://www.youtube.com/DevDiariesWithVee?sub_confirmation=1 "YouTube Subscribe DevDiariesWithVee")  
-<a href="https://www.youtube.com/@DevDiariesWithVee&feature=player_embedded
+##### [YouTube video](https://www.youtube.com/watch?v=hI-cdW7Zci8&t=18s "Youtube DevDiariesWithVee") where the *source code* is explained. [Subscribe YouTube channel.](https://www.youtube.com/@DevDiariesWithVee?sub_confirmation=1 "YouTube Subscribe DevDiariesWithVee")  
+<a href="ttps://www.youtube.com/watch?v=hI-cdW7Zci8&t=18s&feature=player_embedded
 " target="_blank"><img src="https://github.com/vaidehi2701/credit_card/assets/55477266/64989832-97fa-49a1-ac58-bb18bec831cd" 
 alt="Flutter Credit Card Package YouTube video" width="480" border="10" /></a>
 
-➜&ensp;[Watch My Video](https://www.youtube.com/@DevDiariesWithVee "Watch My Video")
+➜&ensp;[Watch My Video](https://www.youtube.com/watch?v=hI-cdW7Zci8&t=18s "Watch My Video")
 
 
 
